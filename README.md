@@ -1,6 +1,6 @@
 ***Curso disponivel através da bolsa para Trilhas Digitais para o programa Santander Tech+, uma parceria entre o Santander e a Ada.***
 
-***Fundamentos da linguagem de programação que mais vem crescendo nos últimos anos, sendo a mais utilizada na Ciência de Dados!  📚 abordando os tópicos:***
+**Fundamentos da linguagem de programação que mais vem crescendo nos últimos anos, sendo a mais utilizada na Ciência de Dados!  📚 abordando os tópicos:**
 
 <ul> 
 <li> Conceito e utilização de variáveis </li>
